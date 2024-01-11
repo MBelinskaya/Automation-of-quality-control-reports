@@ -11,3 +11,5 @@ A program to create a quality control report with diagrams for SMM management. T
 <div align="center">
   <img src="https://github.com/MBelinskaya/Automation-of-quality-control-reports/blob/main/source_example.JPG" width="700"/>
 </div>
+
+In the example are fictitious names and data.
